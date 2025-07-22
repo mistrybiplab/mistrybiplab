@@ -1,4 +1,4 @@
-<h1 align="center">✨🚀<img width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/> — I'm Biplab Mistry ✨</h1>
+<h1 align="center">✨I'm Biplab Mistry ✨</h1>
 <h3 align="center">🔥 MERN Stack Developer | 💻 React Wizard | 🎯 Clean UI Lover</h3>
 
 ---
