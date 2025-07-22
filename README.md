@@ -1,5 +1,7 @@
+
+
 <h1 align="center">Hi <img width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/>, I'm Biplab Mistry</h1>
-<h3 align="center">React Developer | Front-End Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">🚀 React Developer | 🎯 Front-End Web Developer | 💻 MERN Stack Enthusiast</h3>
 
 ---
 
@@ -8,10 +10,10 @@
 I’m a passionate and detail-driven front-end developer who turns ideas into fast, responsive, and pixel-perfect web applications. Clean UI is just the beginning — I focus on building scalable, error-free, and real-world-ready solutions that align with your business goals.
 
 ✨ I love:
-- Writing clean, hand-crafted code
-- Learning new technologies
-- Solving real-world problems
-- Helping others grow in tech
+- 🧼 Writing clean, hand-crafted code
+- 🧠 Learning new technologies
+- 🧩 Solving real-world problems
+- 🤝 Helping others grow in tech
 
 ---
 
@@ -65,8 +67,8 @@ I’m a passionate and detail-driven front-end developer who turns ideas into fa
 
 ## 💡 Fun Fact
 
-**Fresh Hand Code is My Power 💪**  
-**Every Line of Code Speaks Quality 🔥**
+**💪 Fresh Hand Code is My Power**  
+**🔥 Every Line of Code Speaks Quality**
 
 ---
 
