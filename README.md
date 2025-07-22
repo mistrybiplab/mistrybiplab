@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/>, I'm Biplab Mistry</h1>
-<h3 align="center">🚀 React Developer | 🎯 Front-End Web Developer | 💻 MERN Stack Enthusiast</h3>
+<h1 align="center">✨🚀 Welcome to My World <img width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/> — I'm <span style="color:#f97316">Biplab Mistry</span> ✨</h1>
+<h3 align="center">🔥 MERN Stack Developer | 💻 React Wizard | 🎯 Clean UI Lover</h3>
 
 ---
 
@@ -54,14 +54,15 @@ I’m a passionate and detail-driven front-end developer who turns ideas into fa
 
 - 🍽️ [Restaurant Management System](https://restaurant-management-ad302.web.app/) — Efficient system for managing menus, orders & roles
 - 📋 [Freelance Task Management](https://freelance-task-598e5.web.app/) — Powerful dashboard for handling freelance workflows
+- 📦 [Subscription Box](https://subscription-box-ff435.web.app/) — A neat UI for managing user subscriptions
 
 ---
 
 ## 📚 Currently Learning
 
-- TypeScript in real-world MERN projects
-- Clean architecture for scalable apps
-- Growing on LinkedIn for freelance/remote jobs
+- ⚙️ TypeScript in real-world MERN projects
+- 🧩 Clean architecture for scalable apps
+- 🚀 Growing on LinkedIn for freelance/remote jobs
 
 ---
 
