@@ -1,4 +1,4 @@
-<h1 align="center">✨🚀 Welcome to My World <img width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/> — I'm <span style="color:#f97316">Biplab Mistry</span> ✨</h1>
+<h1 align="center">✨🚀<img width="30px" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif"/> — I'm Biplab Mistry ✨</h1>
 <h3 align="center">🔥 MERN Stack Developer | 💻 React Wizard | 🎯 Clean UI Lover</h3>
 
 ---
@@ -26,7 +26,7 @@ I’m a passionate and detail-driven front-end developer who turns ideas into fa
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Quill Editor](https://img.shields.io/badge/React_Quill-FFCE00?style=for-the-badge&logo=quill&logoColor=black)
+
 
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,7 +52,6 @@ I’m a passionate and detail-driven front-end developer who turns ideas into fa
 
 ## 📌 Featured Projects
 
-- 🍽️ [Restaurant Management System](https://restaurant-management-ad302.web.app/) — Efficient system for managing menus, orders & roles
 - 📋 [Freelance Task Management](https://freelance-task-598e5.web.app/) — Powerful dashboard for handling freelance workflows
 - 📦 [Subscription Box](https://subscription-box-ff435.web.app/) — A neat UI for managing user subscriptions
 
